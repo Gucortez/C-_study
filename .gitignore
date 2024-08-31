@@ -1,11 +1,26 @@
+# .NET build and debug files
 bin/
 obj/
 *.dll
 *.exe
 *.pdb
 *.log
+
+# Ignore specific assembly info cache files
+obj/**/MyConsoleApp.AssemblyInfoInputs.cache
+
+# User-specific files
 *.csproj.user
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+
+# Rider IDE files
+.idea/
+
+# Visual Studio Code settings
+.vscode/
+MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
+MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
+MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.sourcelink.json
