@@ -1,0 +1,11 @@
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
