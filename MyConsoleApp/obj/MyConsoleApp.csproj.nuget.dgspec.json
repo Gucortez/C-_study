@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\corte\\Downloads\\C#\\MyConsoleApp\\MyConsoleApp.csproj": {}
+    "c:\\Users\\corte\\Downloads\\C#\\MyConsoleApp\\MyConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\corte\\Downloads\\C#\\MyConsoleApp\\MyConsoleApp.csproj": {
+    "c:\\Users\\corte\\Downloads\\C#\\MyConsoleApp\\MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\corte\\Downloads\\C#\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectUniqueName": "c:\\Users\\corte\\Downloads\\C#\\MyConsoleApp\\MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "C:\\Users\\corte\\Downloads\\C#\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectPath": "c:\\Users\\corte\\Downloads\\C#\\MyConsoleApp\\MyConsoleApp.csproj",
         "packagesPath": "C:\\Users\\corte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\corte\\Downloads\\C#\\MyConsoleApp\\obj\\",
+        "outputPath": "c:\\Users\\corte\\Downloads\\C#\\MyConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\corte\\AppData\\Roaming\\NuGet\\NuGet.Config"
