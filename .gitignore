@@ -6,9 +6,6 @@ obj/
 *.pdb
 *.log
 
-# Ignore specific assembly info cache files
-obj/**/MyConsoleApp.AssemblyInfoInputs.cache
-
 # User-specific files
 *.csproj.user
 *.suo
@@ -24,3 +21,15 @@ obj/**/MyConsoleApp.AssemblyInfoInputs.cache
 MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfo.cs
 MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.AssemblyInfoInputs.cache
 MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.sourcelink.json
+MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.assets.cache
+MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+LeetCode/obj/Debug/net8.0/LeetCode.AssemblyInfo.cs
+LeetCode/obj/Debug/net8.0/LeetCode.AssemblyInfoInputs.cache
+LeetCode/obj/Debug/net8.0/LeetCode.sourcelink.json
+LeetCode/obj/Debug/net8.0/LeetCode.assets.cache
+LeetCode/obj/Debug/net8.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+MyConsoleApp/obj/MyConsoleApp.csproj.nuget.dgspec.json
+MyConsoleApp/obj/project.nuget.cache
+MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.assets.cache
+MyConsoleApp/obj/Debug/net8.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C#.generated.sln
