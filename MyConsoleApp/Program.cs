@@ -22,3 +22,5 @@ var v = true;
 var y = false;
 var z = true || false;
 Console.WriteLine("v = {0}, y = {1}, z = {2}", v, y, z);
+
+// putting static makes the method acessible in other classes

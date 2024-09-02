@@ -4,7 +4,7 @@ int[] ArrayTest = { 2, 7, 11, 15 };
 int TargetTest = 9;
 
 // Call the TwoSumMethod from TwoSum class
-int[] result = TwoSum.CheckTarget(ArrayTest, TargetTest); // static method
+int[] result = Solution.TwoSum(ArrayTest, TargetTest); // static method
 
 if (result.Length > 0)
 {
@@ -17,14 +17,14 @@ else
 
 int PalindromeTest = 121;
 
-PalindromeNumber.IsPalindrome(PalindromeTest);
+Solution.PalindromeNumber(PalindromeTest);
 
 string RomanTest = "III";
 string RomanTest2 = "LVIII";
 string RomanTest3 = "MCMXCIV";
-int sum = RomantoInteger.ConvertRomanToInterger(RomanTest);
-int sum2 = RomantoInteger.ConvertRomanToInterger(RomanTest2);
-int sum3 = RomantoInteger.ConvertRomanToInterger(RomanTest3);
+int sum = Solution.RomantoInteger(RomanTest);
+int sum2 = Solution.RomantoInteger(RomanTest2);
+int sum3 = Solution.RomantoInteger(RomanTest3);
 Console.WriteLine(sum);
 Console.WriteLine(sum2);
 Console.WriteLine(sum3);
