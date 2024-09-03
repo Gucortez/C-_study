@@ -28,3 +28,7 @@ int sum3 = Solution.RomantoInteger(RomanTest3);
 Console.WriteLine(sum);
 Console.WriteLine(sum2);
 Console.WriteLine(sum3);
+
+string[] strings = {"flower", "flow", "flight"};
+string commom = Solution.LongestCommonPrefix(strings);
+System.Console.WriteLine(commom);

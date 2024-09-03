@@ -65,4 +65,29 @@ public class Solution
             return false;
         }
     }
+
+
+    public static string LongestCommonPrefix(string[] strings)
+    {
+        if(strings == null || strings.Length == 0 )
+        {
+        return "";
+        }
+
+
+        string prefix = strings[0];
+
+        for(int i = 1; i < strings.Length; i++) // starts with the second string in the array (i = 1) and checks if our current prefix is a prefix of each subsequent string
+        {
+            while(strings[i].IndexOf(prefix) !=0)    // This part checks if the current string strs[i] starts with the prefix.
+                                                    // IndexOf(prefix) finds the position of prefix in the string. If prefix is at the start, 
+                                                   // IndexOf returns 0. If it's not at the start, there is a mismatch.
+            {
+                prefix = prefix.Substring(0, prefix.Length - 1); // If there’s a mismatch, shorten the prefix by one character from the end using Substring.
+                if (prefix == "") // if the prefix becomes an empty string, return ""
+                return "";  
+            }
+        }
+        return prefix;
+    }
 }
