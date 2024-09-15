@@ -85,4 +85,5 @@
 // InterationExercises.OkExercise();
 // InterationExercises.SeriesOfNumbers();
 // InterationExercises.RandomNumber();
-ArrayTest.Arrays();
+// ArrayTest.Arrays();
+ListsTests.Lists();
