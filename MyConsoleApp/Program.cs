@@ -1,8 +1,9 @@
-﻿using MyConsoleApp.Math;
+﻿// using MyConsoleApp.Math;
 // using MyConsoleApp.People;
 // using MyConsoleApp.Classes;
 // using MyConsoleApp.ConditionalStatements;
 // using MyConsoleApp.IterationStatements;
+using MyConsoleApp.Time;
 
 
 // var john = new Person();
@@ -86,4 +87,7 @@
 // InterationExercises.SeriesOfNumbers();
 // InterationExercises.RandomNumber();
 // ArrayTest.Arrays();
-ListsTests.Lists();
+// ListsTests.Lists();
+// ArrayListsExercises.Exercise5();
+// DateTimeTests.DateTimeMethods();
+TimeSpanTests.TimeSpanMethods();
