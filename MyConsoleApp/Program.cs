@@ -3,7 +3,8 @@
 // using MyConsoleApp.Classes;
 // using MyConsoleApp.ConditionalStatements;
 // using MyConsoleApp.IterationStatements;
-using MyConsoleApp.Time;
+// using MyConsoleApp.Time;
+using MyConsoleApp.Strings;
 
 
 // var john = new Person();
@@ -90,4 +91,7 @@ using MyConsoleApp.Time;
 // ListsTests.Lists();
 // ArrayListsExercises.Exercise5();
 // DateTimeTests.DateTimeMethods();
-TimeSpanTests.TimeSpanMethods();
+// TimeSpanTests.TimeSpanMethods();
+// StringsTests.Strings();
+// Exercises.LiveCoding();
+StringBuilder.Equals();
