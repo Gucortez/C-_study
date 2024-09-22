@@ -4,7 +4,7 @@
 // using MyConsoleApp.ConditionalStatements;
 // using MyConsoleApp.IterationStatements;
 // using MyConsoleApp.Time;
-using MyConsoleApp.Strings;
+// using MyConsoleApp.Strings;
 
 
 // var john = new Person();
@@ -95,4 +95,4 @@ using MyConsoleApp.Strings;
 // StringsTests.Strings();
 // Exercises.LiveCoding();
 // StringBuilderTests.StringBuilder();
-Exercises.Exercise1();
+// Exercises.Exercise1();
