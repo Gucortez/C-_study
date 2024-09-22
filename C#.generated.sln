@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode", "LeetCode\LeetCo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyConsoleApp", "MyConsoleApp\MyConsoleApp.csproj", "{1414BDAF-CC4A-4BFA-9EAB-A450B3C90BF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConsoleApp2", "MyConsoleApp2\MyConsoleApp2.csproj", "{2374A8D5-80E6-4FCB-8053-C9AAF6B7EB3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1414BDAF-CC4A-4BFA-9EAB-A450B3C90BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1414BDAF-CC4A-4BFA-9EAB-A450B3C90BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1414BDAF-CC4A-4BFA-9EAB-A450B3C90BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2374A8D5-80E6-4FCB-8053-C9AAF6B7EB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2374A8D5-80E6-4FCB-8053-C9AAF6B7EB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2374A8D5-80E6-4FCB-8053-C9AAF6B7EB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2374A8D5-80E6-4FCB-8053-C9AAF6B7EB3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
