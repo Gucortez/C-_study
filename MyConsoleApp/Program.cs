@@ -94,4 +94,5 @@ using MyConsoleApp.Strings;
 // TimeSpanTests.TimeSpanMethods();
 // StringsTests.Strings();
 // Exercises.LiveCoding();
-StringBuilder.Equals();
+// StringBuilderTests.StringBuilder();
+Exercises.Exercise1();

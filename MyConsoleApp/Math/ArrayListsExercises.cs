@@ -133,9 +133,9 @@ namespace MyConsoleApp.Math
                     if (int.TryParse(numStr.Trim(), out int number)) 
                     /*numStr.Trim(): Removes any extra spaces from the string numStr.
 
-                     int.TryParse(numStr.Trim(), out int number): Attempts to convert the trimmed string into an integer. 
-                     If the conversion is successful, it stores the result in the number variable and returns true. 
-                     If it fails, it returns false, and number is set to 0 (default value for int).
+                    int.TryParse(numStr.Trim(), out int number): Attempts to convert the trimmed string into an integer. 
+                    If the conversion is successful, it stores the result in the number variable and returns true. 
+                    If it fails, it returns false, and number is set to 0 (default value for int).
 
                     if (...): The if statement checks whether the conversion was successful by examining the result of TryParse. 
                     If it was successful, you can use number for further operations. If it was not successful, you handle the failure case 
